@@ -8,7 +8,7 @@ This is a Machine Learning (ML) project in python created to assist doctors in d
 - Breast Cancer
 - Parkinsons Disease
 - Chronic Kidney Disease
-On the basis of selected disease, a data entry form will be presented in which user can fill the details and predict whether the patient has that particular disease or not.
+On the basis of selected disease, a data entry form will be presented in which user can fill the details and predict whether the patient has that particular disease or not. This project can also be scaled up by adding more disease ML/DL models.
 
 
 Required Libraries:
@@ -51,6 +51,6 @@ Steps to Use:
 
 Advantages:
 -----------
-- This project is easily scalable to include more number of diseases by adding dataset and models in folders named Datasets and Models respectively. After adding new models, include them in GUI console and create the data entry form.
+- This project is easily scalable to include more number of diseases.
 - Models used in this project have an average accuracy of more than 85% which brings out pretty accurate results.
 - Simple and easy to use GUI console for entering data and predicting disease.
